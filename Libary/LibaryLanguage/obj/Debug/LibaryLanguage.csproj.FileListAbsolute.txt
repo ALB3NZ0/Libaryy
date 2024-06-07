@@ -1,0 +1,14 @@
+C:\Users\Рустам\source\repos\Libary\LibaryLanguage\bin\Debug\LibaryLanguage.dll.config
+C:\Users\Рустам\source\repos\Libary\LibaryLanguage\bin\Debug\LibaryLanguage.dll
+C:\Users\Рустам\source\repos\Libary\LibaryLanguage\bin\Debug\LibaryLanguage.pdb
+C:\Users\Рустам\source\repos\Libary\LibaryLanguage\obj\Debug\LibaryLanguage.csproj.AssemblyReference.cache
+C:\Users\Рустам\source\repos\Libary\LibaryLanguage\obj\Debug\Language\Azerbaidjan.baml
+C:\Users\Рустам\source\repos\Libary\LibaryLanguage\obj\Debug\Language\Russian.baml
+C:\Users\Рустам\source\repos\Libary\LibaryLanguage\obj\Debug\Lauf.baml
+C:\Users\Рустам\source\repos\Libary\LibaryLanguage\obj\Debug\LibaryLanguage_MarkupCompile.cache
+C:\Users\Рустам\source\repos\Libary\LibaryLanguage\obj\Debug\LibaryLanguage.g.resources
+C:\Users\Рустам\source\repos\Libary\LibaryLanguage\obj\Debug\LibaryLanguage.Properties.Resources.resources
+C:\Users\Рустам\source\repos\Libary\LibaryLanguage\obj\Debug\LibaryLanguage.csproj.GenerateResource.cache
+C:\Users\Рустам\source\repos\Libary\LibaryLanguage\obj\Debug\LibaryLanguage.csproj.CoreCompileInputs.cache
+C:\Users\Рустам\source\repos\Libary\LibaryLanguage\obj\Debug\LibaryLanguage.dll
+C:\Users\Рустам\source\repos\Libary\LibaryLanguage\obj\Debug\LibaryLanguage.pdb
